@@ -25,8 +25,8 @@ Olá! Meu nome é Matheus Gomes
 
 <div>
   <a href="https://github.com/matheusgomes77">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusg-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusg-dev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusgomes77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgomes77&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
   ##
