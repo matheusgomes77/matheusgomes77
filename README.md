@@ -1,10 +1,8 @@
 
 Olá! Meu nome é Matheus Gomes
 
-- 🔭Estou procurando oportunidades!
-- 🌱Estudando HTML,CSS e Javascript
-- 📫 Contacte-me no gmail: matheuzgomes82@gmail.com
-- 🤓 Estudante Front-end da Origamid
+- 🔭Estudando Javascript
+- 🌱Conhecimento em:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
