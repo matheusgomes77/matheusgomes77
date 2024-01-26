@@ -1,7 +1,6 @@
 
 Olá! Meu nome é Matheus Gomes
 
-- 🔭Estudando Javascript
 - 🌱Conhecimento em:
 
 <div style="display: inline_block"><br>
